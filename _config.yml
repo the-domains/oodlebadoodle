@@ -1,0 +1,28 @@
+name: OodleBaDoodle
+favicon: null
+layout_spectrum: 0.23621449619531631
+typography_spectrum: 0.8688756350893527
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7183632629457861
+  lightness: 0.14852407784201205
+  saturation: 0.9013396948575974
+  rhythmicContrast: 0.14100945461541414
+purpose: []
