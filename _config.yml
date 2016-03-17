@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: OodleBaDoodle
+favicon: null
+layout_spectrum: 0.5053706
+typography_spectrum: 0.8688756350893527
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 1
-  brandStrength: 0.6278195
-  lightness: 0.1638023
   brandColors:
     - '#E1E1DF'
     - '#80775B'
     - '#393A39'
     - '#0D6591'
     - '#169BBD'
+  brandStrength: 1
+  lightness: 0.9375
+  saturation: 1
   rhythmicContrast: 0.6600429
-typography_spectrum: 0.8688756350893527
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.5053706
-favicon: null
-name: OodleBaDoodle
+purpose: []
